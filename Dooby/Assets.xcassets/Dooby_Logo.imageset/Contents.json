@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Dooby Logo Ultimate Final w.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Dooby Logo Ultimate Final w@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Dooby Logo Ultimate Final w@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
